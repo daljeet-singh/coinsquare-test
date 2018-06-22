@@ -37,3 +37,6 @@ def get_all_movie_titles( search ):
 
 def  getMovieTitles(substr):
     print( get_all_movie_titles(substr) )
+
+
+# getMovieTitles('Spiderman')
